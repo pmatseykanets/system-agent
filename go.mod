@@ -36,7 +36,7 @@ require (
 	github.com/mattn/go-colorable v0.1.13
 	github.com/rancher/lasso v0.0.0-20221227210133-6ea88ca2fbcc
 	github.com/rancher/wharfie v0.6.2
-	github.com/rancher/wrangler v1.1.0
+	github.com/rancher/wrangler v1.1.2
 	github.com/sirupsen/logrus v1.9.3
 	github.com/urfave/cli/v2 v2.25.7
 	golang.org/x/sync v0.3.0

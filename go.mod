@@ -32,7 +32,7 @@ replace (
 )
 
 require (
-	github.com/google/go-containerregistry v0.16.1
+	github.com/google/go-containerregistry v0.19.0
 	github.com/mattn/go-colorable v0.1.13
 	github.com/rancher/lasso v0.0.0-20221227210133-6ea88ca2fbcc
 	github.com/rancher/wharfie v0.6.2
